@@ -26,9 +26,6 @@
     "should": "1.1.0"
   },
   "main": "index.js",
-  "directories": {
-    "test": "test"
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/cainus/BufferMaker.git"
